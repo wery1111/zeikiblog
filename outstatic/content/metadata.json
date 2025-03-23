@@ -1,6 +1,22 @@
 {
-  "commit": "3235e67f96c453b3a560c3b6911223dd75786f56",
-  "generated": "2025-03-23T05:14:44.068Z",
+  "commit": "f481a8bc9baf356dbe5f233fd327205e7bceada0",
+  "generated": "2025-03-23T05:20:10.959Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "f481a8bc9baf356dbe5f233fd327205e7bceada0",
+        "hash": "3038602142",
+        "path": "outstatic/content/content/ce-shi.mdx"
+      },
+      "author": {
+        "name": "wery",
+        "picture": "https://avatars.githubusercontent.com/u/187290040?v=4"
+      },
+      "collection": "content",
+      "publishedAt": "2025-03-23T06:07:12.276Z",
+      "slug": "ce-shi",
+      "status": "draft",
+      "title": "测试"
+    }
   ]
 }
