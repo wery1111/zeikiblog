@@ -1,6 +1,22 @@
 {
-  "commit": "d45a376d63fca46e29935afdcb095dece21515df",
-  "generated": "2025-03-23T05:31:50.115Z",
+  "commit": "1632baeb71bffda9d83313ad4a3cb7fff8b50fff",
+  "generated": "2025-03-23T05:32:15.666Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "1632baeb71bffda9d83313ad4a3cb7fff8b50fff",
+        "hash": "1602159150",
+        "path": "outstatic/content/content/ji-chu-ren-zhi.mdx"
+      },
+      "author": {
+        "name": "wery",
+        "picture": "https://avatars.githubusercontent.com/u/187290040?v=4"
+      },
+      "collection": "content",
+      "publishedAt": "2025-03-23T06:19:53.533Z",
+      "slug": "ji-chu-ren-zhi",
+      "status": "draft",
+      "title": "基础认知"
+    }
   ]
 }
