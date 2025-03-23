@@ -10,12 +10,12 @@ const contentPath = join(process.cwd(), 'outstatic/content');
  */
 export async function GET(
   request: Request,
-  { params }: { params: { slug: string } }
+  context: { params: { slug: string } }
 ) {
   try {
     const { searchParams } = new URL(request.url);
     const collection = searchParams.get('collection') || 'posts';
-    const slug = params.slug;
+    const slug = context.params.slug;
     
     // 读取特定集合的内容目录
     const collectionPath = join(contentPath, collection);

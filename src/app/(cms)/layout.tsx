@@ -1,11 +1,11 @@
-export default function RootLayout({
+export default function CmsLayout({
   children
 }: {
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body id="outstatic">{children}</body>
-    </html>
+    <div className="outstatic-container">
+      {children}
+    </div>
   )
 }
