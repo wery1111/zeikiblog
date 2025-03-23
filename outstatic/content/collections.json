@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "test",
+    "slug": "test",
+    "path": "outstatic/content/test",
+    "children": []
+  }
+]
