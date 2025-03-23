@@ -1,11 +1,11 @@
 {
-  "commit": "1632baeb71bffda9d83313ad4a3cb7fff8b50fff",
-  "generated": "2025-03-23T05:32:15.666Z",
+  "commit": "610a06ea8da5619c068a09b7997f96890ce8671b",
+  "generated": "2025-03-23T05:32:21.596Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "1632baeb71bffda9d83313ad4a3cb7fff8b50fff",
-        "hash": "1602159150",
+        "commit": "610a06ea8da5619c068a09b7997f96890ce8671b",
+        "hash": "2993425415",
         "path": "outstatic/content/content/ji-chu-ren-zhi.mdx"
       },
       "author": {
@@ -15,7 +15,7 @@
       "collection": "content",
       "publishedAt": "2025-03-23T06:19:53.533Z",
       "slug": "ji-chu-ren-zhi",
-      "status": "draft",
+      "status": "published",
       "title": "基础认知"
     }
   ]
